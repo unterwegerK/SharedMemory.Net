@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CEB8AD3A-7F90-4EED-86AF-59B9E546A99A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LoadImbalanceTask</RootNamespace>
-    <AssemblyName>LoadImbalanceTask</AssemblyName>
+    <RootNamespace>LoadBalancingTasks</RootNamespace>
+    <AssemblyName>LoadBalancingTasks</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{50808A8E-D183-4A6D-BAEA-796A2AC049D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SerialVectorTriad</RootNamespace>
-    <AssemblyName>SerialVectorTriad</AssemblyName>
+    <RootNamespace>VectorTriad</RootNamespace>
+    <AssemblyName>VectorTriad</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
